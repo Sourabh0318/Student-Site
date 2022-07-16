@@ -1,4 +1,8 @@
-This is my personal portfolio in making
-Name: Sourabh Bundele
-DOB: 17th Oct 1999
-Profession: Developer
+Hey! This is my personal portfolio in making.
+
+Skills
+
+1. JavaScript
+1. Node.js
+1. CHALK
+1. Repl.it
